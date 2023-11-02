@@ -1,0 +1,52 @@
+#get-call-dialog-title{
+    text-align: center;
+    color: #528886;
+    margin-top: 40px;
+    font-size: 1.9rem;
+    font-family: 'Playfair Display';
+    padding-bottom: 2px;
+}
+
+#get-call-dialog-content{
+    border-top: 0px;
+}
+.content-title{
+    text-align: center;
+}
+
+.phoneNumber{
+margin-bottom: 10px !important;
+width: 40%;
+}
+
+.submit-button{
+    background-color: #528886 !important;
+    margin-bottom: 10px !important;
+    width: 40%;
+    min-height: 45px;
+} 
+
+.form{
+    display: flex !important;
+    align-items: center !important;
+}
+
+#success-message-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-top: 0px;
+    
+}
+
+.success-message{
+    font-size: 1.6rem !important;
+    padding-bottom: 40px;
+    font-family: Chalkduster !important;
+}
+
+.hand-shake-image{
+    height: 30%;
+    width: 35%;
+}
